@@ -1,49 +1,150 @@
-## Hello!
-<a href="https://olawaleawe@gmail.com">
-  <img align="left" alt="Olawale Awe | gmail" width="22px" src="email.png" />
-</a>
-<a href="https://www.linkedin.com/in/o-olawale-awe-phd/">
-  <img align="left" alt="My  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# Prof. Dr. Olushina Olawale Awe  
 
-![](https://visitor-badge.glitch.me/badge?page_id=olawaleawe.olawaleawe)
+Statistician | Data Scientist | AI Researcher  
 
-<br />
+---
 
-Hello, i'm [Olawale Awe](https://olawaleawe.github.io/olawaleawe-gitub.io/), an experienced Data Scientist with a demonstrated history of working in the education management industry. Skilled in Modelling, Machine Learning, Data Analysis, Public Speaking, Statistics, Research, and Management. I am an active data science professional with a Master of Business Administration and a PhD in Statistics.
+## Profile  
 
+Globally engaged statistician and data scientist with over two decades of experience in statistical modeling, machine learning, and artificial intelligence. My work integrates rigorous statistical theory with real-world applications across health, economics, education, and development systems.
 
+---
 
+## Academic and Professional Badges  
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:olawaleawe@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange)  
+![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0442--4519-green)  
+![RSS Fellow](https://img.shields.io/badge/RSS-Fellow-blue)  
+![PStat](https://img.shields.io/badge/ASA-PStat%20Accreditation%20Track-lightgrey)  
+![ISI](https://img.shields.io/badge/ISI-Member-blueviolet)  
 
-**languages and tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="rstudio.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="powerbi.jpg"></code>
-<code><img height="20" src="github-mark-white.png"></code>
-<code><img height="20" src="shiny.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## Research Areas  
 
+- Statistical Learning and Machine Learning  
+- Interpretable and Explainable AI  
+- Bayesian and Time Series Modeling  
+- Computational Statistics  
+- Econometrics and Business Analytics  
+- Biostatistics and Global Health Modeling  
+- Civic Data Science and Statistical Literacy  
 
-If you like what i do, maybe consider viewing my codes:
+---
 
-<[<img src="github-mark-white.png" width="25"/>](https://github.com/Olawaleawe/Olawale-Awe)
+## Technical Stack  
 
+**Languages and Tools**  
+Python | R | STATA | SPSS | Git  
 
+**Libraries and Frameworks**  
+scikit-learn | PyTorch | statsmodels | caret | DALEX | modelStudio  
 
+---
 
-📈 my github stats
+## GitHub Metrics  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=olawaleawe&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
 
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)  
 
+---
 
+## Featured Projects  
+
+### Interpretable AI for Health and Policy  
+Development of explainable machine learning frameworks using SHAP and LIME to support transparent decision-making in health systems and public policy.
+
+**Key Contributions**  
+- Designed interpretable pipelines for clinical and epidemiological data  
+- Integrated model explainability into predictive systems  
+- Applied frameworks to malaria modeling and public health analytics  
+
+---
+
+### Wavelet-Based Machine Learning Systems  
+Research on combining wavelet transforms with machine learning to improve predictive performance in time-dependent and correlated data.
+
+**Key Contributions**  
+- Developed hybrid statistical–ML models for time series  
+- Applied to finance, climate, and biomedical signals  
+- Advanced research toward explainable AI integration  
+
+---
+
+### Global Data Science Capacity Building (LISA 2020)  
+Leadership in building statistical and data science ecosystems across developing regions.
+
+**Impact**  
+- Supported 35+ data science laboratories globally  
+- Mentored over 200 statisticians and researchers  
+- Delivered training programs across multiple continents  
+
+---
+
+### Civic Data Science and AI for Governance  
+Design of data-driven frameworks for civic engagement, democracy, and policy accountability.
+
+**Key Contributions**  
+- Developed civic-focused data science curricula  
+- Built tools for public data interpretation  
+- Promoted statistical literacy for democratic participation  
+
+---
+
+### ADA Global Academy Learning Systems  
+Development of scalable, global training platforms in data science, AI, and statistics.
+
+**Key Contributions**  
+- Designed cohort-based and LMS-driven programs  
+- Delivered training to thousands of learners globally  
+- Integrated research, mentorship, and applied learning  
+
+---
+
+## Publications and Academic Profiles  
+
+- Scopus: https://www.scopus.com/authid/detail.uri?authorId=57194525020  
+- Google Scholar: https://bit.ly/3QGtFiW  
+- ORCID: https://orcid.org/0000-0002-0442-4519  
+- LinkedIn: https://www.linkedin.com/in/o-olawale-awe-ph-d-mba-969951157  
+
+---
+
+## Global Leadership  
+
+- Vice President, International Association for Statistical Education (IASE)  
+- Vice President (Global Engagement), LISA 2020 Network  
+- Fellow, Royal Statistical Society (RSS)  
+- Council Member, International Statistical Institute (ISI)  
+
+---
+
+## Collaboration  
+
+Open to:  
+- Research collaboration  
+- PhD supervision  
+- AI and data science consulting  
+- International development and capacity-building projects  
+
+---
+
+## Contact  
+
+Email: olawaleawe@gmail.com  
+Website: https://www.adaglobalacademy.com  
+
+---
+
+## Philosophy  
+
+Statistics enables insight, strengthens decisions, and transforms societies.
+
+---
+
+## Setup Note  
+
+Replace `yourusername` in the GitHub metrics section with your actual GitHub username.
