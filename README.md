@@ -44,11 +44,11 @@ scikit-learn | PyTorch | statsmodels | caret | DALEX | modelStudio
 
 ## GitHub Metrics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olawaleawe&show_icons=true&count_private=true&hide_title=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olawaleawe&layout=compact)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Olawaleawe)  
 
 ---
 
