@@ -143,8 +143,3 @@ Website: https://www.adaglobalacademy.com
 
 Statistics enables insight, strengthens decisions, and transforms societies.
 
----
-
-## Setup Note  
-
-Replace `yourusername` in the GitHub metrics section with your actual GitHub username.
