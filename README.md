@@ -10,15 +10,6 @@ Globally engaged statistician and data scientist with over two decades of experi
 
 ---
 
-## Academic and Professional Badges  
-
-![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange)  
-![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0442--4519-green)  
-![RSS Fellow](https://img.shields.io/badge/RSS-Fellow-blue)  
-![PStat](https://img.shields.io/badge/ASA-PStat%20Accreditation%20Track-lightgrey)  
-![ISI](https://img.shields.io/badge/ISI-Member-blueviolet)  
-
----
 
 ## Research Areas  
 
